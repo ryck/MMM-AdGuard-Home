@@ -1,0 +1,29 @@
+{
+  "name": "MMM-AdGuard-Home",
+  "version": "1.0.0",
+  "description": "MagicMirror 2 module to get AdGuard Home stats.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryck/MMM-AdGuard-Home"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "DNS",
+    "filter",
+    "AdGuard",
+    "module"
+  ],
+  "author": "Ricardo Gonzalez",
+  "contributors": [
+    "https://github.com/ryck/MMM-AdGuard-Home/graphs/contributors"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryck/MMM-AdGuard-Home/issues"
+  },
+  "homepage": "https://github.com/ryck/MMM-AdGuard-Home#readme",
+  "dependencies": {
+    "request": "latest"
+  }
+}
